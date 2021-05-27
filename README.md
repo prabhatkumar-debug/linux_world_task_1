@@ -20,3 +20,10 @@ And we can also see other supportive packages are also downloading
 
 ![image](https://user-images.githubusercontent.com/60494696/119884559-67842580-bf4e-11eb-9a28-0d253a4a205a.png)
 
+Now after running these commands we can see that python3 is successfully running.
+
+![image](https://user-images.githubusercontent.com/60494696/119884784-a74b0d00-bf4e-11eb-84f3-f309ec26acbc.png)
+
+And we can also see that python is giving successfull results 
+
+![image](https://user-images.githubusercontent.com/60494696/119884954-d6fa1500-bf4e-11eb-88cb-d9460545566a.png)
